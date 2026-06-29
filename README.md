@@ -26,7 +26,7 @@ pytest --alluredir=allure-results
 allure serve allure-results
 ```
 
-## Technologies
+## Технологии
 
 - Python
 - Selenium
